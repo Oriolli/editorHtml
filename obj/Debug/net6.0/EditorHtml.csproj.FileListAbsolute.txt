@@ -3,3 +3,13 @@ C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfi
 C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
 C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
 C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\user\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+C:\Users\user\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+C:\Users\user\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+C:\Users\user\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+C:\Users\user\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+C:\Users\user\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+C:\Users\user\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+C:\Users\user\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
